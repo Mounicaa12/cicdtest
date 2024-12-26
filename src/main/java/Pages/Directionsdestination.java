@@ -14,7 +14,7 @@ public class Directionsdestination extends TestBase{
 	public static void finddirection() throws InterruptedException
 	{
 		
-		Thread.sleep(1000);
+		Thread.sleep(2000);
 		driver.findElement(By.xpath("//button[@aria-label='Close']")).click();
 		Thread.sleep(1000);
 		WebElement searchlabel=driver.findElement(By.xpath("//*[@id='XmI62e']//div//label//..//..//input"));
