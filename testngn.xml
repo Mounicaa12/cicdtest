@@ -1,0 +1,12 @@
+
+<suite name="praac">
+<test name ="functionality">
+<classes>
+
+<class name="Handson.amazon"/>
+<class name="Handson.alerts"/>
+</classes>
+
+</test>
+
+</suite>

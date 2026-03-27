@@ -2,20 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-12-26T16:43:49 IST" name="Default suite" finished-at="2024-12-26T16:44:48 IST" duration-ms="59181">
+  <suite started-at="2025-09-05T11:27:03 IST" name="Default suite" finished-at="2025-09-05T11:27:04 IST" duration-ms="86">
     <groups>
     </groups>
-    <test started-at="2024-12-26T16:43:49 IST" name="Default test" finished-at="2024-12-26T16:44:48 IST" duration-ms="59181">
-      <class name="SetDirection.DirectionMap">
-        <test-method is-config="true" signature="launchlogin()[pri:0, instance:SetDirection.DirectionMap@6f01b95f]" started-at="2024-12-26T16:43:49 IST" name="launchlogin" finished-at="2024-12-26T16:43:56 IST" duration-ms="6647" status="PASS">
+    <test started-at="2025-09-05T11:27:03 IST" name="Default test" finished-at="2025-09-05T11:27:04 IST" duration-ms="86">
+      <class name="Handson.Readdata">
+        <test-method signature="Readdata()[pri:0, instance:Handson.Readdata@359df09a]" started-at="2025-09-05T11:27:04 IST" name="Readdata" finished-at="2025-09-05T11:27:04 IST" duration-ms="19" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- launchlogin -->
-        <test-method signature="Settingmode()[pri:0, instance:SetDirection.DirectionMap@6f01b95f]" started-at="2024-12-26T16:43:56 IST" name="Settingmode" finished-at="2024-12-26T16:44:48 IST" duration-ms="52498" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Settingmode -->
-      </class> <!-- SetDirection.DirectionMap -->
+        </test-method> <!-- Readdata -->
+      </class> <!-- Handson.Readdata -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
