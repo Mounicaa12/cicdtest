@@ -18,7 +18,7 @@ import org.testng.annotations.Test;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class amazon  {
+public class amazontest  {
 	WebDriver driver;
 	@Test
 	public void search() throws IOException {

@@ -10,7 +10,7 @@ import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 
-import Handson.amazon;
+import Handson.amazontest;
 public class screenshots  {
 
 	public static String timestamp()

@@ -10,7 +10,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class TestBase {
 	public static WebDriver driver;
-	@BeforeTest
+	
 	public void launchlogin() throws InterruptedException
 	{
 		WebDriverManager.chromedriver().setup();
